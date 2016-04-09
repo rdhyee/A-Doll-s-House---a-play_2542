@@ -1,0 +1,83 @@
+_repo: A-Doll-s-House-a-play_2542
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ibsen, Henrik
+    birthdate: 1828
+    deathdate: 1906
+    gutenberg_agent_id: '861'
+    url: http://www.gutenberg.org/2009/agents/861
+    wikipedia: http://en.wikipedia.org/wiki/Henrik_Ibsen
+description: "A Doll's House (Bokmål: Et dukkehjem; also translated as A Doll House)\
+  \ is a three-act play in prose by Henrik Ibsen. It premiered at the Royal Theatre\
+  \ in Copenhagen, Denmark, on 21 December 1879, having been published earlier that\
+  \ month.\nThe play is significant for its critical attitude toward 19th-century\
+  \ marriage norms. It aroused great controversy at the time, as it concludes with\
+  \ the protagonist, Nora, leaving her husband and children because she wants to discover\
+  \ herself. Ibsen was inspired by the belief that \"a woman cannot be herself in\
+  \ modern society,\" since it is \"an exclusively male society, with laws made by\
+  \ men and with prosecutors and judges who assess feminine conduct from a masculine\
+  \ standpoint.\" Its ideas can also be seen as having a wider application: Michael\
+  \ Meyer argued that the play's theme is not women's rights, but rather \"the need\
+  \ of every individual to find out the kind of person he or she really is and to\
+  \ strive to become that person.\" In a speech given to the Norwegian Association\
+  \ for Women's Rights in 1898, Ibsen insisted that he \"must disclaim the honor of\
+  \ having consciously worked for the women's rights movement,\" since he wrote \"\
+  without any conscious thought of making propaganda,\" his task having been \"the\
+  \ description of humanity.\"\nIn 2006, the centennial of Ibsen's death, A Doll's\
+  \ House held the distinction of being the world's most performed play for that year.\
+  \ UNESCO has inscribed Ibsen's autographed manuscripts of A Doll's House on the\
+  \ Memory of the World Register in 2001, in recognition of their historical value.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Best Books Ever Listings
+gutenberg_issued: '2001-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2542'
+  wikidata: Q669694
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Norwegian drama -- Translations into English'
+- !lcc 'PT'
+- !lcsh 'Marriage -- Drama'
+- !lcsh 'Man-woman relationships -- Drama'
+- !lcsh 'Wives -- Drama'
+- GITenberg
+title: 'A Doll''s House : a play'
+url: http://www.gutenberg.org/ebooks/2542
+wikipedia:
+- https://fi.wikipedia.org/wiki/Nukkekoti_(n%C3%A4ytelm%C3%A4)
+- https://pa.wikipedia.org/wiki/%E0%A8%97%E0%A9%81%E0%A9%B1%E0%A8%A1%E0%A9%80_%E0%A8%A6%E0%A8%BE_%E0%A8%98%E0%A8%B0
+- https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%B9%D8%B1%D9%88%D8%B3%DA%A9
+- https://uk.wikipedia.org/wiki/%D0%9B%D1%8F%D0%BB%D1%8C%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9_%D0%B4%D1%96%D0%BC
+- https://ja.wikipedia.org/wiki/%E4%BA%BA%E5%BD%A2%E3%81%AE%E5%AE%B6
+- https://nn.wikipedia.org/wiki/Et_Dukkehjem
+- https://es.wikipedia.org/wiki/Casa_de_mu%C3%B1ecas_(obra_de_teatro)
+- https://sk.wikipedia.org/wiki/Dom_b%C3%A1bik
+- https://en.wikipedia.org/wiki/A_Doll%27s_House
+- https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D0%BC
+- https://ro.wikipedia.org/wiki/O_cas%C4%83_de_p%C4%83pu%C8%99i
+- https://ko.wikipedia.org/wiki/%EC%9D%B8%ED%98%95%EC%9D%98_%EC%A7%91
+- https://fr.wikipedia.org/wiki/Une_maison_de_poup%C3%A9e
+- https://zh.wikipedia.org/wiki/%E7%8E%A9%E5%81%B6%E4%B9%8B%E5%AE%B6
+- https://pl.wikipedia.org/wiki/Dom_lalki_(dramat)
+- https://da.wikipedia.org/wiki/Et_dukkehjem
+- https://fy.wikipedia.org/wiki/In_Poppeh%C3%BBs
+- https://be-tarask.wikipedia.org/wiki/%D0%9B%D1%8F%D0%BB%D0%B5%D1%87%D0%BD%D1%8B_%D0%B4%D0%BE%D0%BC_(%D0%BF%27%D0%B5%D1%81%D0%B0)
+- https://sv.wikipedia.org/wiki/Ett_dockhem
+- https://be.wikipedia.org/wiki/%D0%9B%D1%8F%D0%BB%D0%B5%D1%87%D0%BD%D1%8B_%D0%B4%D0%BE%D0%BC,_%D0%BF%27%D0%B5%D1%81%D0%B0
+- https://ar.wikipedia.org/wiki/%D8%A8%D9%8A%D8%AA_%D8%A7%D9%84%D8%AF%D9%85%D9%8A%D8%A9
+- https://nl.wikipedia.org/wiki/Een_poppenhuis
+- https://pt.wikipedia.org/wiki/Casa_de_Bonecas
+- https://cs.wikipedia.org/wiki/Dome%C4%8Dek_pro_panenky
+- https://de.wikipedia.org/wiki/Nora_oder_Ein_Puppenheim
+- https://it.wikipedia.org/wiki/Casa_di_bambola
+- https://no.wikipedia.org/wiki/Et_dukkehjem
+- https://hr.wikipedia.org/wiki/Lutkina_ku%C4%87a
+- https://ca.wikipedia.org/wiki/Casa_de_nines
+- https://fo.wikipedia.org/wiki/Eitt_dukkuheim
+- https://tr.wikipedia.org/wiki/Bir_Bebek_Evi
+- https://he.wikipedia.org/wiki/%D7%91%D7%99%D7%AA_%D7%91%D7%95%D7%91%D7%95%D7%AA_(%D7%9E%D7%97%D7%96%D7%94)
