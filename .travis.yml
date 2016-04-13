@@ -50,7 +50,7 @@ deploy:
     - A-Dolls-House-a-play.mobi
     - A-Dolls-House-a-play.pdf
   "on":
-    repo: GITenberg/A-Doll-s-House-a-play_2542
+    repo: GITenberg/A-Doll-s-House---a-play_2542
 addons:
   apt:
     packages:
